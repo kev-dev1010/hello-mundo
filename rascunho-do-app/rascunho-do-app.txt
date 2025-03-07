@@ -1,0 +1,63 @@
+Objetivo do aplicativo: ser uma extensão da mente.
+
+O aplicativo na sua versão ideal, deverá ser otimo em gerenciar, organizar e ajudar o usuario a registrar a vida toda, como uma especie de diario. porém, o foco inicial é me ajudar a estudar.
+
+ . como devo estudar?
+
+ . como gerenciar o tempo que tenho para estudar para conseguir estudar tudo que quero ou preciso?
+
+ . como planejar meus estudos?
+
+ . como identificar ou dar prioridade para uma materia ou assunto?
+
+ . de quanto em quanto tempo devo revisar o conteudo?
+
+ . como criar um fluxo para aplicar na minha vida diareamente?
+
+ . Aplicar testes para avaliar a minha retenção sobre o conteudo
+
+ . identificar link com outro conteudo estudado ou até mesmo um conhecimento previo.
+
+ Todos os registros devem ser mantido, mesmo que a anotação tenha uma informação errada. isso vai ajudar a identificar certas dificuldades nos aprendizado ou comparar a evolução ou falta da mesma.
+
+
+Uma ideia que tive para o aplicativo é:
+ .  ter uma area para registrar informações que venha de outra fonte que não seja o estudo.
+
+ . Ter uma area para fazer anotações rapidas e colocar etiquetas nessas anotações para identificar qual tema/assunto/materia/conteudo anotado.
+
+
+UM POUC MAIS TECNICO....
+
+ * O sistema deve ter uma lista de estudo onde tera todas as materias ou assuntos para estudar.
+
+ * Outra lista de  prioridade alta para estudar
+
+ * 
+
+Se materia fosse uma classe, teria esses atributos:
+
+Class Materia
+
+ - ID
+
+ - NOME
+
+ - AREA DE CONHECIMENTO
+
+ - SUB AREA DE CONHECIMENTO
+
+ - AREAS QUE COMPARTILHA ESSA MATERIA
+
+ - DESCRIÇÃO 
+
+ - NIVEL DE PRIORIDADE PARA ESTUDAR
+
+ - DATA: [{DATA DE QUANDO FOI ADICIONADO NA LISTA GERAL DE ESTUDO}, {DATA DE QUANDO FOI ADICIONADO NA LISTA DE PRIORIDADE DE ESTUDO}]
+
+ - NIVEL DE PROGRESSO DE APRENDIZADO DAQUELA MATERIA
+
+ - NIVEL DE DIFICULDADE
+
+ - LINK COM OUTRAS MATERIAS
+
