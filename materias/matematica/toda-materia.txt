@@ -1,0 +1,107 @@
+📌 1. Matemática Básica (Fundamental)
+🌱 Para iniciantes – conceitos fundamentais
+
+✅ Aritmética (operações básicas: soma, subtração, multiplicação e divisão)
+✅ Propriedades dos números (inteiros, racionais, irracionais, primos, fatoração)
+✅ Frações, decimais e porcentagem
+✅ Regra de três simples e composta
+✅ Proporções e médias (aritmética, geométrica e ponderada)
+✅ Potenciação e radiciação
+✅ Mínimo Múltiplo Comum (MMC) e Máximo Divisor Comum (MDC)
+
+📌 2. Matemática Escolar (Ensino Médio e Pré-Vestibular)
+📖 Para quem quer dominar o ensino médio e estar pronto para vestibulares
+
+Álgebra
+✅ Expressões algébricas e fatoração
+✅ Produtos notáveis
+✅ Equações do 1º e 2º grau
+✅ Sistemas de equações lineares
+✅ Funções: afim, quadrática, exponencial e logarítmica
+✅ Progressões aritméticas (PA) e geométricas (PG)
+✅ Polinômios e raízes
+
+Geometria
+✅ Geometria plana: triângulos, quadriláteros, circunferências
+✅ Trigonometria: seno, cosseno, tangente e ciclo trigonométrico
+✅ Geometria espacial: prismas, pirâmides, esferas
+✅ Geometria analítica: equações de retas, círculos e cônicas
+
+Probabilidade e Estatística
+✅ Análise combinatória: fatorial, permutações, arranjos e combinações
+✅ Probabilidade básica
+✅ Medidas estatísticas: moda, mediana, média, desvio padrão
+
+📌 3. Matemática Superior (Graduação – Nível Universitário)
+🎓 Para universitários e futuros matemáticos/cientistas
+
+Matemática Discreta (Fundamental para Computação)
+✅ Lógica matemática (tabelas-verdade, proposições, conectivos)
+✅ Teoria dos Conjuntos
+✅ Relações e funções
+✅ Teoria dos Grafos
+✅ Combinatória avançada
+✅ Probabilidade e estatística avançada
+
+Álgebra Linear
+✅ Matrizes e determinantes
+✅ Sistemas Lineares
+✅ Espaços Vetoriais
+✅ Transformações Lineares
+✅ Autovalores e autovetores
+
+Cálculo Diferencial e Integral
+✅ Limites e continuidade
+✅ Derivadas e aplicações
+✅ Integrais e aplicações
+✅ Séries e sucessões
+✅ Equações diferenciais
+
+Geometria Avançada
+✅ Geometria diferencial
+✅ Topologia
+✅ Espaços métricos
+
+📌 4. Matemática Avançada (Pós-Graduação e Pesquisa)
+🏆 Para matemáticos e pesquisadores
+
+Análise Real e Complexa
+✅ Espaços métricos e normados
+✅ Séries e sequências de funções
+✅ Teoria da medida e integração de Lebesgue
+✅ Análise funcional
+
+Álgebra Abstrata
+✅ Teoria dos Grupos
+✅ Anéis e Corpos
+✅ Espaços vetoriais e módulos
+
+Teoria dos Números
+✅ Números primos e funções aritméticas
+✅ Congruências e criptografia
+✅ Equações diofantinas
+
+Topologia e Geometria Diferencial
+✅ Variedades e superfícies
+✅ Teoria dos nós
+✅ Espaços topológicos
+
+Equações Diferenciais e Sistemas Dinâmicos
+✅ Equações diferenciais parciais
+✅ Modelagem matemática
+✅ Caos e sistemas dinâmicos
+
+Matemática Aplicada e Computacional
+✅ Algoritmos matemáticos
+✅ Modelagem numérica
+✅ Análise de Fourier e Wavelets
+
+📌 5. Fronteira da Matemática (Pesquisas Atuais)
+🚀 O que há de mais avançado na Matemática
+
+✅ Hipóteses de Riemann e Zeta Functions
+✅ Conjectura de P vs NP
+✅ Matemática quântica
+✅ Inteligência artificial e otimização matemática
+✅ Geometria algébrica avançada
+✅ Teoria dos jogos aplicada

@@ -83,5 +83,110 @@ preciso definir uma lista de estudo que deva ser prioridade nesse momento, e ent
 
 enfim, preciso fazer de um jeito que seja facil de gerenciar.
 
+.................................
+
+09/03/2025
+
+antes de iniciar a lista de estudos e dividir meu tempo, quero registrar algumas ideias.
+
+ - Criar o hábito: Nos primeiros 7 dias, apenas siga os horários sem cobrança de produtividade. O foco é acostumar o corpo e mente.
+
+ - Monitorar o progresso: Todo domingo, revise o que conseguiu fazer e ajuste o que for necessário.
+
+ - Priorizar o essencial: Sempre tenha clareza do que é mais importante na semana (exemplo: foco em matemática e português no começo).
+
+ - Automatizar revisões: Configure lembretes no celular ou use um app como Anki para garantir que siga a revisão espaçada.
 
 
+bom... criei mas algumas arquivos para me ajudar a vizualizar o que estou estudando e onde estou.
+
+todos os arquivos com a lista de tudo para se estudar em uma materia esta no diretorio:
+
+<LINK src="/materias">
+
+cada materia tem seu diretorio e no momento um arquivo que mostra tudo que tem para se aprender em cada materia.
+
+obviamente nao vou estudar tudo de tudo, mas ajuda a me dar uma visao geral das coisas... enfim. segue o baile...
+
+como parece que nunca vou aprender porque tem infinitos conteudos para aprender, fali com o chatgpt e ele falou isso 
+
+Sim, é verdade! Quanto mais você aprende, mais percebe que há ainda mais para estudar. Isso pode ser assustador, mas também é libertador: significa que ninguém sabe tudo e que o aprendizado é um processo contínuo.
+A chave para lidar com isso sem se sobrecarregar é estratégia e foco. Aqui estão algumas sugestões para estudar de forma eficiente sem se perder no infinito de conteúdos:
+
+1️⃣ Definir Prioridades Absolutas
+📌 O que é essencial agora?
+Você precisa de um filtro para evitar o excesso de informações. Como você quer passar no vestibular e estudar Ciência da Computação, sua prioridade deve ser:
+
+✅ Para o vestibular: Matemática, Português, Inglês e outras matérias cobradas na prova (História, Física, etc.).
+✅ Para Ciência da Computação: Lógica, Programação, Estruturas de Dados e Matemática Avançada.
+
+O resto pode ser estudado depois. Se tudo for prioridade, nada é prioridade.
+
+2️⃣ Estudar em Ciclos e Blocos
+Se você tentar aprender tudo ao mesmo tempo, vai travar. Então, crie ciclos de estudo:
+
+🔹 Ciclo de curto prazo (semanal) → O que você precisa aprender agora.
+🔹 Ciclo de médio prazo (mensal) → Revisões e aprofundamento.
+🔹 Ciclo de longo prazo (anual) → Grandes objetivos de aprendizado.
+
+📌 Exemplo de Ciclo de Curto Prazo:
+
+Semana 1: Matemática Básica + Gramática
+Semana 2: Funções + Interpretação de Texto
+Semana 3: Álgebra + Escrita de Redação
+Semana 4: Revisão de tudo
+📌 Exemplo de Ciclo de Médio Prazo:
+
+Mês 1: Programação Básica + Lógica
+Mês 2: Estruturas de Dados + Algoritmos
+Mês 3: Redes + Sistemas Operacionais
+Mês 4: Revisão
+Isso evita sobrecarga e mantém um progresso constante.
+
+3️⃣ Técnica 80/20 – Estude o que Mais Importa
+A Lei de Pareto diz que 20% do esforço gera 80% dos resultados. Aplique isso nos estudos:
+
+📌 Se quer aprender um idioma, foque primeiro no vocabulário essencial.
+📌 Se quer aprender programação, domine os fundamentos antes de avançar.
+📌 Se quer passar no vestibular, estude primeiro as matérias com maior peso na prova.
+
+Evite se perder em detalhes que não são importantes agora.
+
+4️⃣ Revisão e Memorização Inteligente
+Estudar sem revisar é jogar tempo fora. Use:
+
+✅ Revisão Espaçada → Revise o conteúdo depois de 1 dia, 1 semana, 1 mês.
+✅ Técnica Feynman → Ensine o que aprendeu a alguém (ou explique em voz alta).
+✅ Anotações Ativas → Resuma o que aprendeu com suas próprias palavras.
+✅ Flashcards → Revise conceitos rapidamente (Anki, Quizlet, Notion).
+
+Isso vai evitar que você esqueça o que aprendeu.
+
+5️⃣ Evite a Paralisia por Informação
+O excesso de informação pode te paralisar. Ao invés de consumir tudo de uma vez, aplique a regra do "Aprenda + Pratique":
+
+📌 Se estudou um conceito, aplique-o imediatamente.
+📌 Se aprendeu um novo comando de Bash, use-o em um script real.
+📌 Se estudou uma regra gramatical, escreva um texto aplicando-a.
+
+O conhecimento só se fixa quando você o usa.
+
+6️⃣ Use um Sistema para Acompanhar seu Progresso
+Crie um mapa mental, um plano de estudos visual ou use um aplicativo de gerenciamento (Trello, Notion, Excel).
+
+Isso evita que você se perca e te motiva ao ver seu progresso.
+
+📌 Conclusão: Como Dar Conta de Tudo?
+✅ Foque no essencial agora.
+✅ Estude em ciclos (semanal, mensal, anual).
+✅ Use a Lei 80/20 – aprenda o que dá mais resultado primeiro.
+✅ Revisão é mais importante do que aprender coisas novas o tempo todo.
+✅ Aplique o conhecimento assim que aprender.
+✅ Mantenha um sistema organizado para acompanhar seu progresso.
+
+O aprendizado é infinito, mas se você for estratégico, pode aprender muito mais com menos esforço. 🚀
+
+amanhã é segunda.
+
+vamos começar estudando matematica.
+vou identificar na lista e começar!!!

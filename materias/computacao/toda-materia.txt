@@ -1,0 +1,79 @@
+📚 Lista Completa de Estudo em Ciência da Computação
+1️⃣ Fundamentos da Computação (Iniciante)
+✅ História da Computação
+✅ Arquitetura de Computadores (CPU, Memória, Armazenamento, Buses, etc.)
+✅ Sistemas de Numeração (Binário, Octal, Decimal, Hexadecimal)
+✅ Lógica Booleana e Circuitos Lógicos
+✅ Fundamentos de Algoritmos e Estruturas de Dados
+✅ Primeiros Passos em Programação (Python, C, Java, JavaScript, etc.)
+✅ Noções de Sistemas Operacionais (Windows, Linux, macOS)
+✅ Redes de Computadores Básico (Modelos OSI e TCP/IP, IPs, DNS, etc.)
+✅ Conceitos de Banco de Dados e SQL Básico
+
+2️⃣ Programação e Desenvolvimento de Software
+✅ Paradigmas de Programação (Imperativa, Funcional, Orientada a Objetos, Concorrente, etc.)
+✅ Estruturas de Dados (Listas, Pilhas, Filas, Árvores, Grafos, Hashmaps)
+✅ Algoritmos (Ordenação, Busca, Recursão, Programação Dinâmica, etc.)
+✅ Engenharia de Software (Modelagem, UML, Design Patterns, SOLID)
+✅ Desenvolvimento Web (HTML, CSS, JavaScript, React, Node.js, etc.)
+✅ Desenvolvimento Mobile (Android, iOS, Flutter, React Native)
+✅ Desenvolvimento de Jogos (Unity, Unreal Engine, OpenGL, SDL)
+✅ Metodologias Ágeis (Scrum, Kanban, XP, DevOps)
+
+3️⃣ Estruturas de Computação e Sistemas Operacionais
+✅ Sistemas Operacionais (Processos, Threads, Gerenciamento de Memória, Filesystem)
+✅ Programação de Sistemas (Bash, PowerShell, C, Assembly)
+✅ Kernel do Linux e Desenvolvimento de Drivers
+✅ Segurança de Sistemas Operacionais
+
+4️⃣ Banco de Dados e Big Data
+✅ Modelagem de Banco de Dados (Relacional e Não Relacional)
+✅ SQL Avançado (Triggers, Procedures, Indexação, Normalização)
+✅ Banco de Dados NoSQL (MongoDB, Redis, Cassandra, DynamoDB)
+✅ Data Warehousing e ETL (Data Lakes, OLAP, OLTP)
+✅ Big Data e Processamento Distribuído (Hadoop, Spark, Kafka)
+✅ Inteligência de Dados e Business Intelligence (BI, Power BI, Tableau)
+
+5️⃣ Computação Teórica e Matemática Aplicada
+✅ Teoria da Computação (Máquinas de Turing, Autômatos, Gramáticas Formais)
+✅ Complexidade de Algoritmos (P, NP, NP-Completo, Problema do P vs NP)
+✅ Matemática Discreta (Conjuntos, Relações, Combinatória, Grafos, Probabilidade)
+✅ Criptografia e Segurança (AES, RSA, SHA, Assinaturas Digitais, Blockchain)
+✅ Computação Quântica e Algoritmos Quânticos
+
+6️⃣ Redes de Computadores e Computação Distribuída
+✅ Arquitetura de Redes (TCP/IP, Protocolo HTTP, DNS, DHCP, VPNs)
+✅ Segurança de Redes (Firewalls, IDS, IPS, DDoS, PKI, Certificados SSL/TLS)
+✅ Computação em Nuvem (AWS, Azure, Google Cloud, Kubernetes, Docker)
+✅ Computação Distribuída e Concorrência (MapReduce, MPI, RPC, Consistência, CAP)
+✅ Redes Peer-to-Peer e Blockchain
+
+7️⃣ Inteligência Artificial e Machine Learning
+✅ Aprendizado de Máquina (Supervisionado, Não Supervisionado, Reinforcement Learning)
+✅ Redes Neurais e Deep Learning (TensorFlow, PyTorch, Keras)
+✅ Processamento de Linguagem Natural (NLP, Chatbots, Tradução Automática)
+✅ Visão Computacional e Reconhecimento de Imagens
+✅ Sistemas de Recomendação e Aprendizado de Representação
+✅ IA Explicável e Ética na Inteligência Artificial
+
+8️⃣ Segurança da Informação e Cibersegurança
+✅ Pentesting e Ethical Hacking (Metasploit, Nmap, Burp Suite, Wireshark)
+✅ Forense Computacional e Análise de Malware
+✅ Engenharia Reversa e Exploração de Vulnerabilidades
+✅ Segurança de Aplicações Web e Mobile (OWASP Top 10)
+✅ Segurança de IoT, Blockchain e Sistemas Críticos
+✅ Criptografia e Análise de Riscos
+
+9️⃣ Desenvolvimento de Hardware e Engenharia da Computação
+✅ Arquitetura de Computadores Avançada (Pipeline, SIMD, Superscalar, etc.)
+✅ Microcontroladores e IoT (Arduino, ESP8266, Raspberry Pi)
+✅ Desenvolvimento de Firmware e Sistemas Embarcados
+✅ Eletrônica Digital e Analógica (Circuitos, FPGA, HDL, VHDL, Verilog)
+✅ Projetos de Hardware Open Source (RISC-V, Open Hardware, etc.)
+
+🔟 Computação Avançada e Pesquisa Científica
+✅ Computação de Alto Desempenho (Supercomputadores, CUDA, OpenMP, MPI)
+✅ Simulações Computacionais e Modelagem Matemática
+✅ Interfaces Cérebro-Máquina e Neurocomputação
+✅ Tecnologias Futuristas (Computação Neuromórfica, Computação Óptica, DNA Computing)
+✅ Ética na Computação e Filosofia da Tecnologia
