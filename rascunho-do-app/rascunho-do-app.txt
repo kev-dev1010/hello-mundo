@@ -27,7 +27,7 @@ Uma ideia que tive para o aplicativo é:
  . Ter uma area para fazer anotações rapidas e colocar etiquetas nessas anotações para identificar qual tema/assunto/materia/conteudo anotado.
 
 
-UM POUC MAIS TECNICO....
+UM POUCO MAIS TECNICO....
 
  * O sistema deve ter uma lista de estudo onde tera todas as materias ou assuntos para estudar.
 

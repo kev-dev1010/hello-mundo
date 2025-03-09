@@ -1,0 +1,6 @@
+listas de tarefas
+
+- FAZER COMPRAS(MERCADO) - lista de compras <LINK src="../tarefas-domesticas/listas-compras/mercado/08-03-2025.txt">
+
+- COMPRA PRA CASA - <LINK src="../tarefas-domesticas/listas-compras/casa-geral/08-03-2025.txt">
+

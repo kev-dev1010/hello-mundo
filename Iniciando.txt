@@ -6,7 +6,7 @@ pra tentar resolver isso, fiz umas anotações porcas e rápidas para não esque
 
 escrevi em um papel de caderno e rabisquei o inicio de uma aplicação.
 um sistema para me ajudar a gerenciar minha vida no geral.
-o objetivo maior é ser uma extensão do cérebro, mas inicialmente vou focar em me ajudar a estudar.
+o objetivo maior é ser uma extensão do cérebro, mas inicialmente vou focar me ajudar a estudar.
 
 vou registrar todo o processo, inclusive registrar o registro.
 toda ideia e conhecimento que vou adquirindo será registrado por aqui tambem, isso vai me ajudar a aprender mais e sempre.
@@ -18,6 +18,70 @@ meu portugues é ruim, minha matematica é uma bela de uma porcaria, mas preciso
 Tenho uma amiga que é super nerdola e ela parece que vai me ajudar a estudar. pelo menos um apoio.
 
 aqui vou colocar um link para onde vou deixar a ideia do app.
-<LINK>
+<LINK src="/rascunho-do-app/rascunho-do-app.txt">
 
 é mais uma ideia geralzona. uma anotação rapida para nao esquecer de ideias que tive que talvez possa ajudar.
+
+...............................
+
+
+Hoje 08/03/2025
+
+Tudo que registrei eu mandei para o chatgpt organizar melhor pra mim, e ele mandou isso:
+
+
+<LINK src="/rascunho-do-app/plano-inicial-do-app-gpt.txt">
+
+
+
+.............................
+
+depois pedi pra ele me ajudar a organizar os estudos e ele mandou isso aqui:
+
+
+.................................
+
+achei bem gernerico!
+mas vai ser o ponta pe inicial.
+
+<OBS>
+acabei de pensar que preciso criar uma meta para definir meu ciclo de estudos e aplica-lo. uma data limite para começar com algo pois nao posso planejar para sempre.
+
+<Lembrete>
+estou pensando em acordar as 4 horas da manhã para estudar. acordo umas 3:40 e faço um café e como algo, e as 4:00 vou estudar.
+as 6:00 me arrumo para o trabalho e saio de casa 6:20.
+para isso preciso dormir cedo. umas 21:00 ou 22:00
+</Lembrete>
+
+continuando...
+
+Vou usar o que o chatgpt me disse como base. porem preciso definir algumas coisas primeiro para aplicar o cronograma no meu dia.
+o maior problema que vejo é adaptar para dormir cedo. eu preciso dormir muito mais cedo do que minha rotina atual que é 00:00 ou 01:00 as vezes um pouco mais...
+o motivo disso é que amo minha mulher, ela é linda, sex, cheirosa, engraçada, apetitosa.... enfim... as vezes durmo mais tarde.
+
+então acredito que dormir mais cedo será uma barreira.
+
+para iniciar, acho que vou filtrar duas grande tarefas iniciais que é crucial para prosseguir.
+preciso fazer uma lista de coisas que tenho que fazer em casa, e definir o minimo para estudar e registrar.
+
+aqui vai ficar o link da lista de coisas que tenho que fazer em casa.
+<LINK src"/tarefas/tarefas-domesticas/08-03-2025.txt">
+
+aqui vai ficar o link da lista de coisas que tenho que fazer para estudar e registrar.
+<LINK src"/tarefas/tarefas-estudos/08-03-2025.txt">
+
+
+
+preciso estudar para o enem que esta a 7 meses daqui, e em paralelo estudar ciencias da computação e toda sua grade.
+
+antes de tudo preciso definir algumas coisas para continuar planejamento dos estudos e rotina, que é, o que estudar e como estudar?
+
+primeiro, o que estudar?
+
+Bom... preciso estudar matematica, portugues, ingles, e toda a grade curricular de ciencias da computaria (amei esse termo que vi am algum lugar), porem, pra me fuder mais ainda, quero fazer eletronica tambem, gostaria de entender o hardware... MAS....
+preciso definir uma lista de estudo que deva ser prioridade nesse momento, e entender e me adaptar para sempre ir atualizando essa lista e nunca entupindo de coisas prioritarias para estudar, pois essa lista precisa ter um limite de conteudo para se estudar, quanto menor for essa lista melhor, pois acredito que quanto mais tempo para estudar um conteudo, melhor, logo se tiver mais de um conteudo, terei que dividir meu tempo para todos conteudos.
+
+enfim, preciso fazer de um jeito que seja facil de gerenciar.
+
+
+

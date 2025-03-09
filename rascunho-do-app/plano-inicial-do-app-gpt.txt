@@ -1,0 +1,62 @@
+**Registro do Projeto Hello Mundo**
+
+
+
+### **Objetivo do Aplicativo**
+
+O aplicativo deve ser uma **extensão da mente**, ajudando no registro, organização e gestão do aprendizado. Em sua versão ideal, ele servirá para organizar a vida como um diário completo. No entanto, o foco inicial será ajudar nos estudos.
+
+#### **Principais Questões a Resolver**
+- Como estudar de forma eficiente?
+- Como gerenciar meu tempo para estudar tudo o que preciso?
+- Como planejar meus estudos?
+- Como identificar e priorizar matérias ou assuntos?
+- Com que frequência devo revisar o conteúdo?
+- Como criar um fluxo de estudos para aplicar diariamente?
+- Como avaliar minha retenção do conteúdo estudado?
+- Como identificar conexões entre diferentes assuntos?
+
+Todos os registros devem ser mantidos, mesmo que contenham informações erradas. Isso ajudará a identificar dificuldades de aprendizado e acompanhar a evolução (ou falta dela).
+
+#### **Funcionalidades Iniciais do Aplicativo**
+- **Área para registrar informações** que venham de outras fontes além do estudo.
+- **Área para anotações rápidas**, com etiquetas para classificar temas, assuntos ou matérias.
+- **Lista geral de estudos**, contendo todas as matérias ou temas a serem estudados.
+- **Lista de prioridade alta**, destacando os conteúdos mais urgentes.
+- **Sistema de testes e avaliações** para medir a retenção de conhecimento.
+- **Registro de progresso**, permitindo acompanhar a evolução do aprendizado.
+- **Sistema de conexões entre conteúdos**, relacionando matérias que compartilham conceitos.
+
+---
+
+### **Estrutura Técnica Inicial**
+
+#### **Classe: Matéria**
+
+```plaintext
+Class Materia
+
+- ID
+- Nome
+- Área de Conhecimento
+- Subárea de Conhecimento
+- Áreas Relacionadas
+- Descrição
+- Nível de Prioridade para Estudo
+- Datas:
+  - Data de inclusão na lista geral
+  - Data de inclusão na lista de prioridade
+- Nível de Progresso de Aprendizado
+- Nível de Dificuldade
+- Links com Outras Matérias
+```
+
+---
+
+### **Próximos Passos**
+1. Definir um fluxo básico de uso do sistema.
+2. Escolher tecnologias para implementação.
+3. Criar um modelo visual (wireframe) do aplicativo.
+4. Iniciar a construção do primeiro protótipo.
+
+Esse registro será atualizado conforme o projeto avançar.
